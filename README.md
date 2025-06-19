@@ -1,4 +1,4 @@
-# 📘 drug target Classification using Random Forest and Evaluation Strategies
+# 🔬💊 drug target Classification using Random Forest and Evaluation Strategies
 This notebook performs classification of Mechanism of Action (MOA) labels based on PCA-transformed gene expression data.
 It uses a Random Forest Classifier and evaluates its performance through various validation strategies.
 
